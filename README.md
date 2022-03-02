@@ -4,7 +4,6 @@ I'm back-end software developer. I live in Goiânia, Goiás, Brazil.
 
 - 🔭 I’m currently working at **NTT Data**.
 - 📖 I'm a Systems Analysis and Development student at **Senac**.
-- 🌱 I'm currently learning **SOLID Principles** with **C#**.
 
 ---
 
