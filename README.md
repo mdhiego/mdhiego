@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Dhiego Andrade
 
-I'm back-end software developer. I live in Goiânia, Goiás, Brazil.
+I'm a fullstack software developer and currently I live in Goiânia, Goiás, Brazil.
 
-- 🔭 I’m currently working at **NTT Data**.
+- 🔭 I’m working at **Teros**.
 - 📖 I'm a Systems Analysis and Development student at **Senac**.
 
 ---
